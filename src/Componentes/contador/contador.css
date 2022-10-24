@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    background: peru;
+}
+
+.contador {
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+
+.contador > button{
+    background-color: rgb(218, 218, 218);
+    border: none;
+    border-radius: 20px;
+    padding: 15px;
+    margin: 10px;
+}
+
+.contador > button:hover{
+    background-color: black;
+    color: aliceblue;
+    box-shadow:  rgb(48, 48, 48);
+    cursor: pointer;
+}
+
+.contador > p {
+    background: #4f364c;
+    color: rgb(221, 221, 221);
+    font-size: 26px;
+    padding: 20px;
+    border-radius: 8px;
+}
+
