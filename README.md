@@ -2,9 +2,9 @@
 
 # Como descargar archivo
 
-- Ve al siguiente link https://github.com/z0paXp/Practico-2
-- Presionamos botón CODE.
-- Saldrán opciones debemos presionar download zip.
+- Ve al siguiente link https://github.com/FedericoDr/Practico-2
+- Presionamos botón `CODE`.
+- Saldrán opciones debemos presionar download `zip`.
 
 # Como empezar a usar el proyecto
 
